@@ -3,5 +3,10 @@ asdfasdf
 git 更新
 时光穿梭鸡
 aaaaaaaaaa
+<<<<<<< HEAD
 dfdf
 ererere
+=======
+dfdff
+ttttttttt
+>>>>>>> cc7571b642f0d03369e2ea1c19d0e6c2e31178b4
